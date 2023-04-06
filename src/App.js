@@ -73,7 +73,7 @@ function App() {
     number2 = ''
     setOperation('')
     setDisplay(0)
-
+    let vvv = 0
   }
 
   return (
