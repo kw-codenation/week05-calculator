@@ -17,6 +17,8 @@ body
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  border:solid 2px grey;
+  border-radius:0.5vw;
   background-color:white;
   width:20vw;
   height:70vh;
